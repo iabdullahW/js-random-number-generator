@@ -1,0 +1,25 @@
+body{
+    background-color: grey;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;
+}
+
+#myButton{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px 25px;
+    text-align: center;
+    color:white;
+    cursor: pointer;
+    background-color: transparent;
+}
+
+#myButton:hover{
+background-color: aquamarine;
+}
+
+.myLabels{
+    font-size: 3em;
+    border-radius: 3px;
+    color: white;
+   
+}
